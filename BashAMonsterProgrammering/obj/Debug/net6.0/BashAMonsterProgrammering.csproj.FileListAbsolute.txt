@@ -1,0 +1,15 @@
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\bin\Debug\net6.0\BashAMonsterProgrammering.exe
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\bin\Debug\net6.0\BashAMonsterProgrammering.deps.json
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\bin\Debug\net6.0\BashAMonsterProgrammering.runtimeconfig.json
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\bin\Debug\net6.0\BashAMonsterProgrammering.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\bin\Debug\net6.0\BashAMonsterProgrammering.pdb
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.csproj.AssemblyReference.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.AssemblyInfoInputs.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.AssemblyInfo.cs
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\refint\BashAMonsterProgrammering.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.pdb
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\BashAMonsterProgrammering.genruntimeconfig.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 2\BashAMonsterProgrammering\BashAMonsterProgrammering\obj\Debug\net6.0\ref\BashAMonsterProgrammering.dll
